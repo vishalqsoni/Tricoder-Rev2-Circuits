@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# KiCad caches and backups
+fp-info-cache
+*-backups/
+*.kicad_sch-bak
+*.kicad_pcb-bak
+_autosave-*
+*.lck
